@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AudioWaves\waveform\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39e4dbb6074d08308627ef772600590c7df069f5">
+        <dex dex="E:\AudioWaves\app\build\intermediates\pre-dexed\debug\classes_2ad210217c79b4b66548918c63c3c28d6baad487.jar" />
+    </item>
+
+</items>
